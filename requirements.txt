@@ -1,0 +1,3 @@
+selenium==4.0.0
+pandas==1.3.4
+odfpy==1.4.1
